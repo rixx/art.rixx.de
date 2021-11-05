@@ -14,6 +14,7 @@ pen plotters.
 
 #### finished svgs
 
+- [plotter tester](https://revdancatt.com/penplotter/)
 - [svg download, good for quick tests](https://plotterfiles.com/files)
 - [nested houses incl code](https://turtletoy.net/turtle/789cce3829)
 - [fractal plant](https://turtletoy.net/turtle/b750bb0220)
@@ -41,7 +42,21 @@ pen plotters.
 - [snake playing](https://www.reddit.com/r/PlotterArt/comments/mk18km/plotter_playing_snake_against_itself/)
 - [abstract w hexagons](https://i.redd.it/27x2zdp2fgt71.jpg), [variant](https://www.instagram.com/p/CVA2Y8sFt8b/)
 - [Azulejos #1](https://i.imgur.com/8UVXKzf.jpg)
-- [postcards](https://www.reddit.com/r/PlotterArt/comments/kv2vzl/ive_plotted_some_2021_postcards_for_my_family/)
+- OBRA DINN STUFF
+- postcards
+  - [wave line work with text](https://www.reddit.com/r/PlotterArt/comments/kv2vzl/ive_plotted_some_2021_postcards_for_my_family/)
+  - [circular whatever](https://twitter.com/jasonw22/status/1368257676816179201)
+  - [abstract pretty](https://twitter.com/Mlissa_H/status/843930645835538433)
+  - [plants](https://twitter.com/sheffer_stroke/status/1338981825373478917), [more plants](https://twitter.com/stombeur/status/1367524892388847621)
+  - [sea, obra-dinn-like](https://twitter.com/pentronik/status/1441894831589003267),
+    [context](https://www.pentronik.net/sines9b), [more](https://twitter.com/floris_de_jonge/status/1441063340864835586)
+  - [abstract boxes, two-tone](https://twitter.com/dvsch/status/1257482843091058688), [more](https://twitter.com/Recta_Pete/status/1254877988749029378)
+  - [medieval symbols](https://blog.duncangeere.com/cistercian-plotter-postcards/)
+  - [christmas](https://twitter.com/YahmezBot/status/1340376246774091777)
+  - [line art](https://twitter.com/johnbalestrieri/status/1337092412251004930)
+  - snowflakes: see generators
+  - [maze and other cool stuff](https://penplotterartwork.com/blog/2021/11/04/small-pen-plot-art-postcard-art-for-plot-party/)
+  - [fancy pumpkins for halloween](https://twitter.com/ruuddotorg/status/1454231014415364102)
 - [wrapping paper](https://i.redd.it/k9hs40900g661.jpg)
 - [city scape](https://www.instagram.com/p/CSw-bRjnris/)
 - generators
@@ -49,6 +64,7 @@ pen plotters.
   - [village generator](https://watabou.itch.io/village-generator)
   - ROCKET GENERATOR
   - medieval manuscript generator
+  - medieval castle generator?!?!
   - [treasure map/island generator](https://watabou.itch.io/perilous-shores)
   - [city plan generator](https://probabletrain.itch.io/city-generator)
   - [way cool compass rose generator](https://watabou.itch.io/compass-rose-generator)
@@ -61,13 +77,21 @@ pen plotters.
   - [fish generator](https://github.com/LingDong-/fishdraw)
   - [minimal plant generator](https://robotmolecule.com/gallery-fated-departure.html), [source](https://github.com/anaulin/generative-art/tree/main/reeds)
   - [robot face generator](https://robotmolecule.com/gallery-self-portrait.html), [source](https://github.com/anaulin/generative-art/blob/main/robots/robots.py)
+  - [vessel maker](https://picrew.me/image_maker/143336)-like
+  - snowflakes: [actual generator](https://revdancatt.com/penplotter/036-Snowflakes)
+    - [1](https://twitter.com/YahmezBot/status/1338672295854944256)
+    - [2](https://twitter.com/pentronik/status/1335778478587695104)
+    - [3](https://twitter.com/paulgb/status/1336437876058427393)
+    - [4](https://twitter.com/christiank79/status/1339300913790529543)
+    - [5](https://twitter.com/bockph/status/1339331834476449792)
+- hollow knight figures
 
 
 #### collections to browse
 
 - [r/PlotterArt](https://reddit.com/r/PlotterArt/top)
 - [turtletoy](https://turtletoy.net/turtle/browse/newest/)
-- [plottertwitter](https://twitter.com/hashtag/plottertwitter)
+- [plottertwitter](https://twitter.com/hashtag/plottertwitter?f=live)
 - [plotterfedi](https://chaos.social/web/timelines/tag/plottertwitter)
 
 ### algorithms and guides
@@ -81,6 +105,7 @@ pen plotters.
 - [cool wavy lines](https://codepen.io/Mamboleoo/pen/bGwKqjo), used in [postcards](https://www.reddit.com/r/PlotterArt/comments/kv2vzl/ive_plotted_some_2021_postcards_for_my_family/)
 - [Python walkthrough example 3d algo](https://www.generativehut.com/post/generative-art-python-tutorial-for-penplotter)
 - [everything about bezier curves](https://pomax.github.io/bezierinfo/)
+- [another explainer for curves, plus surfaces](https://ciechanow.ski/curves-and-surfaces/)
 
 ### tools
 
