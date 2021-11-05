@@ -12,7 +12,26 @@ pen plotters.
 
 ### art inspiration
 
+#### finished svgs
+
 - [svg download, good for quick tests](https://plotterfiles.com/files)
+- [nested houses incl code](https://turtletoy.net/turtle/789cce3829)
+- [fractal plant](https://turtletoy.net/turtle/b750bb0220)
+- [sheep cute](https://turtletoy.net/turtle/dd73eeec09)
+- [some sample processing projects for testing](https://github.com/summasmiff/processing_experiments)
+
+#### practice ideas
+
+- [fragmented circles](https://i.redd.it/f4w85kl393t61.jpg)
+- [patterned circle](https://i.redd.it/orsa4qn0av471.jpg)
+- [tons of cool ideas in one notebook](https://www.reddit.com/r/PlotterArt/comments/kyrv4j/for_a_while_now_ive_been_keeping_a_plot_drafts/)
+- [partial plot](https://i.redd.it/up1hnd1zge251.jpg)
+- [connected dots](https://www.instagram.com/p/B3a13Z8lG2y/)
+- [circles](https://www.instagram.com/p/BqvJUzIFD13/)
+- [symbol generator](https://i.redd.it/p279q197knh41.png), do mind accidental swastikas
+
+#### art ideas
+
 - [dials](https://i.redd.it/zdzrs9fxc0u51.jpg) ([code](https://github.com/georgedoescode/sketchbook/tree/master/06.19/dialsongrid))
 - [generating interfaces](https://interactionmagic.com/UX-LEGO-Interfaces)
 - [distorted grid](https://i.redd.it/90t7eilcacr61.jpg)
@@ -20,51 +39,40 @@ pen plotters.
   - [more](https://www.reddit.com/r/PlotterArt/comments/p79v50/lineridge_map_of_scotland_in_silver_ink/)
 - [cassette model incl instructions](https://www.reddit.com/r/PlotterArt/comments/meb38p/not_quite_art_posting_anyway_cassette_modelled_in/)
 - [snake playing](https://www.reddit.com/r/PlotterArt/comments/mk18km/plotter_playing_snake_against_itself/)
-- [nested houses incl code](https://turtletoy.net/turtle/789cce3829)
-- [fractal plant](https://turtletoy.net/turtle/b750bb0220)
-- [sheep cute](https://turtletoy.net/turtle/dd73eeec09)
 - [abstract w hexagons](https://i.redd.it/27x2zdp2fgt71.jpg), [variant](https://www.instagram.com/p/CVA2Y8sFt8b/)
-- [exercise: fragmented circles](https://i.redd.it/f4w85kl393t61.jpg)
-- [exercise: patterned circle](https://i.redd.it/orsa4qn0av471.jpg)
 - [Azulejos #1](https://i.imgur.com/8UVXKzf.jpg)
-- [partial plot](https://i.redd.it/up1hnd1zge251.jpg)
 - [postcards](https://www.reddit.com/r/PlotterArt/comments/kv2vzl/ive_plotted_some_2021_postcards_for_my_family/)
 - [wrapping paper](https://i.redd.it/k9hs40900g661.jpg)
-- [exercise: tons of cool ideas in one notebook](https://www.reddit.com/r/PlotterArt/comments/kyrv4j/for_a_while_now_ive_been_keeping_a_plot_drafts/)
 - [city scape](https://www.instagram.com/p/CSw-bRjnris/)
-- [exercise: connected dots](https://www.instagram.com/p/B3a13Z8lG2y/)
-- [exercise: circles](https://www.instagram.com/p/BqvJUzIFD13/)
-- [magic seals](https://www.reddit.com/r/proceduralgeneration/comments/i17hn6/drawing_randomly_generated_magic_seals/)
-- [village generator](https://watabou.itch.io/village-generator)
-- ROCKET GENERATOR
-- medieval manuscript generator
-- [treasure map/island generator](https://watabou.itch.io/perilous-shores)
-- [city plan generator](https://probabletrain.itch.io/city-generator)
-- [way cool compass rose generator](https://watabou.itch.io/compass-rose-generator)
-- [sigil generator](https://watabou.itch.io/sigil-generator)
-- [Fingerprints](https://turtletoy.net/turtle/70e2e00c6f)
-  [more context](https://www.reddit.com/r/proceduralgeneration/comments/mqzkha/procedural_fingerprints/gukhznm/)
-- [playing card backs](https://www.reddit.com/gallery/jb2556)
-- [exercise: symbols](https://i.redd.it/p279q197knh41.png), do mind accidental swastikas
-- [bird generator](https://twitter.com/pybirdbot)
-- [potion glasses](https://editor.p5js.org/arigen/sketches/0eV2Bbk5h)
-- [landscape](https://github.com/LingDong-/shan-shui-inf)
-- [fish generator](https://github.com/LingDong-/fishdraw)
-- [minimal plant generator](https://robotmolecule.com/gallery-fated-departure.html), [source](https://github.com/anaulin/generative-art/tree/main/reeds)
-- [robot face generator](https://robotmolecule.com/gallery-self-portrait.html), [source](https://github.com/anaulin/generative-art/blob/main/robots/robots.py)
-- [some sample processing projects for testing](https://github.com/summasmiff/processing_experiments)
+- generators
+  - [magic seals](https://www.reddit.com/r/proceduralgeneration/comments/i17hn6/drawing_randomly_generated_magic_seals/)
+  - [village generator](https://watabou.itch.io/village-generator)
+  - ROCKET GENERATOR
+  - medieval manuscript generator
+  - [treasure map/island generator](https://watabou.itch.io/perilous-shores)
+  - [city plan generator](https://probabletrain.itch.io/city-generator)
+  - [way cool compass rose generator](https://watabou.itch.io/compass-rose-generator)
+  - [sigil generator](https://watabou.itch.io/sigil-generator)
+  - [Fingerprints](https://turtletoy.net/turtle/70e2e00c6f), [more context](https://www.reddit.com/r/proceduralgeneration/comments/mqzkha/procedural_fingerprints/gukhznm/)
+  - [playing card backs](https://www.reddit.com/gallery/jb2556)
+  - [bird generator](https://twitter.com/pybirdbot)
+  - [potion glasses](https://editor.p5js.org/arigen/sketches/0eV2Bbk5h)
+  - [landscape](https://github.com/LingDong-/shan-shui-inf)
+  - [fish generator](https://github.com/LingDong-/fishdraw)
+  - [minimal plant generator](https://robotmolecule.com/gallery-fated-departure.html), [source](https://github.com/anaulin/generative-art/tree/main/reeds)
+  - [robot face generator](https://robotmolecule.com/gallery-self-portrait.html), [source](https://github.com/anaulin/generative-art/blob/main/robots/robots.py)
 
 
 #### collections to browse
 
 - [r/PlotterArt](https://reddit.com/r/PlotterArt/top)
 - [turtletoy](https://turtletoy.net/turtle/browse/newest/)
+- [plottertwitter](https://twitter.com/hashtag/plottertwitter)
+- [plotterfedi](https://chaos.social/web/timelines/tag/plottertwitter)
 
 ### algorithms and guides
 
 - [basics](https://inconvergent.net/generative/)
-- [plotter basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
-- [more genart plotter bascis](https://mattdesl.svbtle.com/pen-plotter-1)
 - [line clipping explained](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm)
 - [surface projection explained in Python](https://nb.paulbutler.org/surface-projection/)
 - [weighted truchet tiles](https://www.marginallyclever.com/2020/06/masked-and-weighted-truchet-tiles-in-processing/)
@@ -89,10 +97,12 @@ pen plotters.
 
 ## pen plotter things
 
-[awesome-plotters](https://github.com/beardicus/awesome-plotters)
+- [awesome-plotters](https://github.com/beardicus/awesome-plotters)
 
-### hardware stuff
+### basics and guides
 
+- [plotter basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
+- [more genart plotter bascis](https://mattdesl.svbtle.com/pen-plotter-1)
 
 ### pens
 
