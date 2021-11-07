@@ -30,6 +30,8 @@ pen plotters.
 - [connected dots](https://www.instagram.com/p/B3a13Z8lG2y/)
 - [circles](https://www.instagram.com/p/BqvJUzIFD13/)
 - [symbol generator](https://i.redd.it/p279q197knh41.png), do mind accidental swastikas
+- [different line fills with noise](https://twitter.com/rolandojones/status/1456791656762515456)
+- [practice circles and spirals like this](https://twitter.com/floris_de_jonge/status/1456944072254533637/photo/1)
 
 #### art ideas
 
@@ -43,6 +45,8 @@ pen plotters.
 - [abstract w hexagons](https://i.redd.it/27x2zdp2fgt71.jpg), [variant](https://www.instagram.com/p/CVA2Y8sFt8b/)
 - [Azulejos #1](https://i.imgur.com/8UVXKzf.jpg)
 - OBRA DINN STUFF
+- playing cards [eg
+  from here](https://www.buntpapierwelt.de/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/u/r/ursus_blanko-spielkarten-36-karten_17020000.jpg)
 - postcards
   - [wave line work with text](https://www.reddit.com/r/PlotterArt/comments/kv2vzl/ive_plotted_some_2021_postcards_for_my_family/)
   - [circular whatever](https://twitter.com/jasonw22/status/1368257676816179201)
@@ -84,6 +88,7 @@ pen plotters.
     - [3](https://twitter.com/paulgb/status/1336437876058427393)
     - [4](https://twitter.com/christiank79/status/1339300913790529543)
     - [5](https://twitter.com/bockph/status/1339331834476449792)
+  - [lumber](https://estebanhufstedler.com/2018/10/20/generative-lumber/)
 - hollow knight figures
 
 
@@ -99,6 +104,7 @@ pen plotters.
 - [basics](https://inconvergent.net/generative/)
 - [line clipping explained](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm)
 - [surface projection explained in Python](https://nb.paulbutler.org/surface-projection/)
+- [path planning and hatch filling](https://engineerdog.com/2021/08/18/optimal-path-planning-and-hatch-filling-for-pen-plotters/)
 - [weighted truchet tiles](https://www.marginallyclever.com/2020/06/masked-and-weighted-truchet-tiles-in-processing/)
 - [maze generation](https://www.marginallyclever.com/2015/12/how-to-generate-a-maze/)
 - [gen art with context free grammars](https://www.leonrische.me/pages/generative_art_with_cfgs.html)
@@ -112,6 +118,7 @@ pen plotters.
 - [image to svg in several styles](https://mitxela.com/plotterfun/)
 - [python library for plotter stuff](https://github.com/abey79/vsketch)
 - [simple circular-ish line art](https://github.com/msurguy/rad-lines)
+- [perlin noise generator](https://github.com/caseman/noise)
 - [OSM to pretty maps](https://github.com/marceloprates/prettymaps)
 - [complete designer for axi](https://github.com/lilkraftwerk/lineboi3000)
 - Languages and frameworks
