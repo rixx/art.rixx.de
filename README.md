@@ -36,6 +36,9 @@ pen plotters.
 - [layered lines](https://twitter.com/jeremy_profit/status/1457802732895563779/photo/2)
 - [little waves](https://twitter.com/dirtalleydesign/status/1457823335618801664)
 - [multiple widths](https://twitter.com/floris_de_jonge/status/1458126682557194252)
+- [concentric circles, with one gap](https://twitter.com/twilliability/status/1458707958636986369?)
+- [small patterns](https://twitter.com/difriebi/status/1458800283031683072)
+- [wavy walls](https://twitter.com/wawaa_studio/status/1459321035753496584?t=rrV-MmT0S18aIKEVT7MGDw)
 
 #### art ideas
 
@@ -65,6 +68,8 @@ pen plotters.
   - snowflakes: see generators
   - [maze and other cool stuff](https://penplotterartwork.com/blog/2021/11/04/small-pen-plot-art-postcard-art-for-plot-party/)
   - [fancy pumpkins for halloween](https://twitter.com/ruuddotorg/status/1454231014415364102)
+  - [cool patterns, esp lower left](https://twitter.com/pentronik/status/1458934792506863642?)
+  - [Hitomezashi patterns](https://twitter.com/ruuddotorg/status/1458837233268445187)
 - [wrapping paper](https://i.redd.it/k9hs40900g661.jpg)
 - [city scape](https://www.instagram.com/p/CSw-bRjnris/)
 - generators
