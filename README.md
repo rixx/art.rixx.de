@@ -162,3 +162,7 @@ pen plotters.
 
 - [iDraw fork for saxi](https://github.com/EmmaSimon/saxi/tree/polarity_checks)
 - [svgsort](https://github.com/inconvergent/svgsort)
+- or use `vpype read mySVGFile.svg linesimplify linemerge linesort write mySVGFile-optimized.svg` to optimise svg before
+  turning them into gcode
+- or use `vpype read mySVGFile.svg linesimplify linemerge linesort gwrite --profile your_machine_config  mySVGFile_optimised_converted.gcode show`
+  to optimise and turn into gcode in one step
