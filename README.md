@@ -32,6 +32,10 @@ pen plotters.
 - [symbol generator](https://i.redd.it/p279q197knh41.png), do mind accidental swastikas
 - [different line fills with noise](https://twitter.com/rolandojones/status/1456791656762515456)
 - [practice circles and spirals like this](https://twitter.com/floris_de_jonge/status/1456944072254533637/photo/1)
+- [weather](https://twitter.com/tasty_plots/status/1457762631255789576)
+- [layered lines](https://twitter.com/jeremy_profit/status/1457802732895563779/photo/2)
+- [little waves](https://twitter.com/dirtalleydesign/status/1457823335618801664)
+- [multiple widths](https://twitter.com/floris_de_jonge/status/1458126682557194252)
 
 #### art ideas
 
