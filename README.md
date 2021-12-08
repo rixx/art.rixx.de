@@ -76,8 +76,12 @@ pen plotters.
   - [magic seals](https://www.reddit.com/r/proceduralgeneration/comments/i17hn6/drawing_randomly_generated_magic_seals/)
   - [village generator](https://watabou.itch.io/village-generator)
   - ROCKET GENERATOR
+    - [cf](https://www.reddit.com/r/PlotterArt/comments/qualyq/random_rockets/)
   - medieval manuscript generator
+    - look at [all these beauties](https://www.bavarikon.de/object/bav:BSB-CMS-0000000000006546) for inspiration
   - medieval castle generator?!?!
+  - medieval window generator
+    - for ideas see [this and replies](https://twitter.com/Calthalas/status/1452369911460900864)
   - [treasure map/island generator](https://watabou.itch.io/perilous-shores)
   - [city plan generator](https://probabletrain.itch.io/city-generator)
   - [way cool compass rose generator](https://watabou.itch.io/compass-rose-generator)
@@ -99,6 +103,7 @@ pen plotters.
     - [5](https://twitter.com/bockph/status/1339331834476449792)
   - [lumber](https://estebanhufstedler.com/2018/10/20/generative-lumber/)
 - hollow knight figures
+- [funny nail](https://i.redd.it/3tedkf8ejmf51.jpg)
 
 
 #### collections to browse
@@ -157,6 +162,10 @@ pen plotters.
 ### papers
 
 - remember to get and use fixative (workable fixatif?)
+
+### other materials
+
+- [blackpowder](https://www.reddit.com/r/PlotterArt/comments/quuac2/plotting_with_diy_blackpowder/)
 
 ### software stuff
 
