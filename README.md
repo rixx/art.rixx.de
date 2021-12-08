@@ -171,7 +171,16 @@ pen plotters.
 
 - [iDraw fork for saxi](https://github.com/EmmaSimon/saxi/tree/polarity_checks)
 - [svgsort](https://github.com/inconvergent/svgsort)
-- or use `vpype read mySVGFile.svg linesimplify linemerge linesort write mySVGFile-optimized.svg` to optimise svg before
-  turning them into gcode
-- or use `vpype read mySVGFile.svg linesimplify linemerge linesort gwrite --profile your_machine_config  mySVGFile_optimised_converted.gcode show`
-  to optimise and turn into gcode in one step
+- vpype
+  - or use `vpype read mySVGFile.svg linesimplify linemerge linesort write mySVGFile-optimized.svg` to optimise svg before
+    turning them into gcode
+  - or use `vpype read mySVGFile.svg linesimplify linemerge linesort gwrite --profile your_machine_config  mySVGFile_optimised_converted.gcode show`
+    to optimise and turn into gcode in one step
+  - [occult](https://github.com/LoicGoulefert/occult) is a vpype plugin for occlusion / clipping
+  - [deduplicate](https://github.com/LoicGoulefert/deduplicate) is a vpype plugin to remove overlapping lines
+  - [vpype-text](https://github.com/abey79/vpype-text) supports plotting of hershey fonts
+    - Hershey fonts [previews](http://sol.gfxile.net/hershey/fontprev.html)
+  - use [vsketch](https://vsketch.readthedocs.io/en/latest/) which is … a vpype wrapper, maybe? A tool that allows you
+    to produce generative art, including seed support for random outcomes, automatic reloading of the rendering page
+    etc., and can interact with Shapely objects
+- [plotter.vision](https://plotter.vision/) converts STL files to SVG with proper clipping and all 😍
