@@ -1,0 +1,2 @@
+git+https://github.com/LoicGoulefert/occult.git
+git+git://github.com/abey79/vsketch
