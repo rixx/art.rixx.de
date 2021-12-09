@@ -39,6 +39,8 @@ pen plotters.
 - [concentric circles, with one gap](https://twitter.com/twilliability/status/1458707958636986369?)
 - [small patterns](https://twitter.com/difriebi/status/1458800283031683072)
 - [wavy walls](https://twitter.com/wawaa_studio/status/1459321035753496584?t=rrV-MmT0S18aIKEVT7MGDw)
+- [overlapping squares](https://twitter.com/floris_de_jonge/status/1462415453326872582)
+- [blocks in perspective](https://twitter.com/studiostrauss/status/1463028869284306944)
 
 #### art ideas
 
@@ -55,6 +57,7 @@ pen plotters.
 - playing cards [eg
   from here](https://www.buntpapierwelt.de/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/u/r/ursus_blanko-spielkarten-36-karten_17020000.jpg)
 - postcards
+  - tool alert! [postcart backside vsketch](https://github.com/abey79/sketches/blob/master/README.md#postcard)
   - [wave line work with text](https://www.reddit.com/r/PlotterArt/comments/kv2vzl/ive_plotted_some_2021_postcards_for_my_family/)
   - [circular whatever](https://twitter.com/jasonw22/status/1368257676816179201)
   - [abstract pretty](https://twitter.com/Mlissa_H/status/843930645835538433)
@@ -184,3 +187,5 @@ pen plotters.
     to produce generative art, including seed support for random outcomes, automatic reloading of the rendering page
     etc., and can interact with Shapely objects
 - [plotter.vision](https://plotter.vision/) converts STL files to SVG with proper clipping and all 😍
+- [lines](https://github.com/abey79/lines), a 3d engine that does camera perspectives on things, made for plotting.
+  Great to use with maps?
