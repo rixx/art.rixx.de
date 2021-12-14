@@ -1,0 +1,3 @@
+- add website renderer
+- add drafts directory, and way to transform into a post
+- add image downloader that handles downsizing etc

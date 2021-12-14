@@ -41,6 +41,7 @@ pen plotters.
 - [wavy walls](https://twitter.com/wawaa_studio/status/1459321035753496584?t=rrV-MmT0S18aIKEVT7MGDw)
 - [overlapping squares](https://twitter.com/floris_de_jonge/status/1462415453326872582)
 - [blocks in perspective](https://twitter.com/studiostrauss/status/1463028869284306944)
+- [blinry's amazing thread](https://twitter.com/blinry/status/1467112486952443907)
 
 #### art ideas
 
