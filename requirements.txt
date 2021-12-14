@@ -1,2 +1,3 @@
 git+https://github.com/LoicGoulefert/occult.git
+git+https://github.com/LoicGoulefert/deduplicate.git
 git+git://github.com/abey79/vsketch
