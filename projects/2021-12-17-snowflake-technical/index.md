@@ -27,3 +27,7 @@ I also did the optimisations, then accidentally plotted the unoptimised file. Am
 though I do wonder if the circle jitters in the plot are due to hardware limitations.
 
 Font in use is EMS Readability, because it came closest to a Normschrift – for future reference when modifying the date.
+
+Another lesson learned: When a plugin says "Can't find attribute SvgDocumentElement.composed_transform", it means that
+the whatever it tries to deal with is a direct child of the root element. Moving stuff to an actual layer solves the
+problem.
