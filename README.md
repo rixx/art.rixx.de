@@ -48,6 +48,7 @@ pen plotters.
 - [dials](https://i.redd.it/zdzrs9fxc0u51.jpg) ([code](https://github.com/georgedoescode/sketchbook/tree/master/06.19/dialsongrid))
 - [generating interfaces](https://interactionmagic.com/UX-LEGO-Interfaces)
 - [distorted grid](https://i.redd.it/90t7eilcacr61.jpg)
+- [old maps](https://maps.arcanum.com/en/map/europe-19century-secondsurvey/?layers=158%2C164&bbox=1034140.7310479044%2C7345015.899716443%2C1049389.918190797%2C7351885.677633573)
 - [elevation maps, light on dark](https://www.reddit.com/r/PlotterArt/comments/prqcr0/ireland_plotted_in_silver_ink_on_gfsmith_emerald/)
   - [more](https://www.reddit.com/r/PlotterArt/comments/p79v50/lineridge_map_of_scotland_in_silver_ink/)
 - [cassette model incl instructions](https://www.reddit.com/r/PlotterArt/comments/meb38p/not_quite_art_posting_anyway_cassette_modelled_in/)
@@ -83,6 +84,7 @@ pen plotters.
     - [cf](https://www.reddit.com/r/PlotterArt/comments/qualyq/random_rockets/)
   - medieval manuscript generator
     - look at [all these beauties](https://www.bavarikon.de/object/bav:BSB-CMS-0000000000006546) for inspiration
+    - [and this](https://digital.bodleian.ox.ac.uk/objects/40001eaf-217b-4602-88f9-0445161f7f7e/surfaces/287feace-8ea0-4d91-9269-ef29985ee9c7/)
   - medieval castle generator?!?!
   - medieval window generator
     - for ideas see [this and replies](https://twitter.com/Calthalas/status/1452369911460900864)
