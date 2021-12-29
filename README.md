@@ -42,6 +42,12 @@ pen plotters.
 - [overlapping squares](https://twitter.com/floris_de_jonge/status/1462415453326872582)
 - [blocks in perspective](https://twitter.com/studiostrauss/status/1463028869284306944)
 - [blinry's amazing thread](https://twitter.com/blinry/status/1467112486952443907)
+- [waves](https://twitter.com/analogshapes/status/1474124589483581445)
+- [squares](https://twitter.com/jakub_antolak/status/1473595101574316035)
+- [wave occlusions](https://twitter.com/hungtruong/status/1475625493248417798)
+- [squares stacked](https://twitter.com/neurofuzzy/status/1475620506166448128)
+  ([1](https://twitter.com/neurofuzzy/status/1474527361890603009), [2](https://twitter.com/neurofuzzy/status/1474572802678145024))
+- [natural overlaps](https://twitter.com/PhotoPuck/status/1474747225603547143)
 
 #### art ideas
 
@@ -69,6 +75,8 @@ pen plotters.
   - [abstract boxes, two-tone](https://twitter.com/dvsch/status/1257482843091058688), [more](https://twitter.com/Recta_Pete/status/1254877988749029378)
   - [medieval symbols](https://blog.duncangeere.com/cistercian-plotter-postcards/)
   - [christmas](https://twitter.com/YahmezBot/status/1340376246774091777)
+    - [2](https://twitter.com/timohausmann/status/1472623244117258247)
+    - [3](https://twitter.com/py5coding/status/1474000297504690184)
   - [line art](https://twitter.com/johnbalestrieri/status/1337092412251004930)
   - snowflakes: see generators
   - [maze and other cool stuff](https://penplotterartwork.com/blog/2021/11/04/small-pen-plot-art-postcard-art-for-plot-party/)
@@ -110,6 +118,9 @@ pen plotters.
   - [lumber](https://estebanhufstedler.com/2018/10/20/generative-lumber/)
 - hollow knight figures
 - [funny nail](https://i.redd.it/3tedkf8ejmf51.jpg)
+- [wimmelbilder](https://i.redd.it/hrdow5f5z1881.jpg)
+- QR code art!
+- technical [explosion drawings](https://twitter.com/paulrickards/status/1475531507703943172)
 
 
 #### collections to browse
