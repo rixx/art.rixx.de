@@ -144,6 +144,16 @@ pen plotters.
 - [everything about bezier curves](https://pomax.github.io/bezierinfo/)
 - [another explainer for curves, plus surfaces](https://ciechanow.ski/curves-and-surfaces/)
 
+### just inkscape things
+
+- [beginner guide](https://inkscape-manuals.readthedocs.io/en/latest/)
+- [another guide](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/index.html)
+- [manual](http://archive.flossmanuals.net/inkscape/index.html#)
+- [links to more guides](https://inkscape.org/learn/)
+- [faq](https://inkscape.org/da/learn/faq/)
+- [extensions](https://inkscape.org/gallery/%3Dextension/)
+- [extension to create your own stroke fonts wooo](https://github.com/Shriinivas/inkscapestrokefont)
+
 ### tools
 
 - [image to svg in several styles](https://mitxela.com/plotterfun/)
