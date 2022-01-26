@@ -51,6 +51,8 @@ pen plotters.
 
 #### art ideas
 
+- [CHURCH WINDOW PLANS,
+  ORIGINAL](https://stainedglassattitudes.files.wordpress.com/2020/11/facade_of_strasbourg_cathedral1.jpg)
 - [dials](https://i.redd.it/zdzrs9fxc0u51.jpg) ([code](https://github.com/georgedoescode/sketchbook/tree/master/06.19/dialsongrid))
 - [generating interfaces](https://interactionmagic.com/UX-LEGO-Interfaces)
 - [distorted grid](https://i.redd.it/90t7eilcacr61.jpg)
