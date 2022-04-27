@@ -131,7 +131,7 @@ class RoseWindow(Vsk):
         sketch.translate(-x, -y)
 
 class StaveWindow(Vsk):
-    CIRCLE_DECORATION_COUNT = 6
+    CIRCLE_DECORATION_COUNT = 2
 
     def __init__(self, *args, width=None, height=None, center=None):
         super().__init__(*args)
@@ -207,7 +207,6 @@ class StaveWindow(Vsk):
     def draw_circle(self, x, y, width, decoration_type=None):
         self.v.circle(x, y, width)
         decoration_type = decoration_type or self.rand_int(1, self.CIRCLE_DECORATION_COUNT)
-        decoration_type = 1
         if decoration_type == 1:  # Three circles
             circle_width = math.sqrt((width*0.85) ** 2)  # TODO why
             degrees = [30, 150, 270]
@@ -259,7 +258,36 @@ class StaveWindow(Vsk):
             )
 
         if decoration_type == 2:  # Four circles
-            pass
+            circle_width = 0.58 * math.sqrt((width*0.85) ** 2)  # TODO why
+            degrees = [90, 210, 330]
+            triangle_points = [
+                (x + width / 2 * math.cos(d * math.pi / 180), y + width / 2 * math.sin(d * math.pi / 180))
+                for d in degrees
+            ]
+            midpoints = [
+                midpoint(*triangle_points[0], *triangle_points[1]),
+                midpoint(*triangle_points[1], *triangle_points[2]),
+                midpoint(*triangle_points[2], *triangle_points[0]),
+
+            ]
+            self.v.arc(
+                *midpoints[0],
+                circle_width, circle_width,
+                90, 330,
+                degrees=True,
+            )
+            self.v.arc(
+                *midpoints[1],
+                circle_width, circle_width,
+                -30, 210,
+                degrees=True,
+            )
+            self.v.arc(
+                *midpoints[2],
+                circle_width, circle_width,
+                210, 90,
+                degrees=True,
+            )
         if decoration_type == 3:  # Five circles
             pass
         if decoration_type == 4:  # Six circles
