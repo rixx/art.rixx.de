@@ -1,4 +1,5 @@
 git+https://github.com/LoicGoulefert/occult.git
 git+https://github.com/LoicGoulefert/deduplicate.git
-git+git://github.com/abey79/vsketch
+git+https://github.com/abey79/vsketch
+git+https://github.com/serycjon/vpype-flow-imager.git#egg=vpype-flow-imager[all]
 vpype
